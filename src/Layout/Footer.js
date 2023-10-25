@@ -136,7 +136,7 @@ export default function Footer() {
                   <a className="btn btn-primary btn-square mr-2" href="#">
                     <i className="fab fa-facebook-f" />
                   </a>
-                  <a className="btn btn-primary btn-square mr-2" href="#">
+                  <a className="btn btn-primary btn-square mr-2" href=" #">
                     <i className="fab fa-linkedin-in" />
                   </a>
                   <a className="btn btn-primary btn-square" href="#">
@@ -158,8 +158,8 @@ export default function Footer() {
                 Domain
               </a>
               . All Rights Reserved. Designed by
-              <a className="text-primary" href="https://htmlcodex.com">
-                HTML Codex
+              <a className="text-primary" >
+                Shirshendu
               </a>
             </p>
           </div>
